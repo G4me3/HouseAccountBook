@@ -37,7 +37,7 @@ public class HouseAccount {
 
 			}
 
-			//出力
+			//出力(テスト)
 			for(int p=1;p<=5;p++) {
 				for(int o=1;o<=3;o++) {
 					for(int i=(p-1)*7;i<p*7&i<day.size();i++) {
